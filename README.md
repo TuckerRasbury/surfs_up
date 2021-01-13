@@ -9,6 +9,8 @@ For those interested in taking a look at the data for themselves, please see the
 * Oahu does experience low temperatures (approximately 65), though rare, that could create a temporary dip in business.
 * given the high number of observations for each month, we can act on this exploratory data analysis with confidence.
 
+For this analysis 'tobs' is shorthand for temperature.
+
 ### _June Temperature Results_
 ![](june_results.png)
 
