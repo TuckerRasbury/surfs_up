@@ -16,3 +16,8 @@ For those interested in taking a look at the data for themselves, please see the
 ![](december_results.png)
 
 ## Summary
+At a high level, we can understand from this analysis that temperatures in Oahu in June and December are consistently favorable for enjoying ice cream and surfing thus supporting the business idea year-round. 
+
+In addition to the that, we can also use the following additional queries to come to a similar conclusion. The first query performs a similar query to the above to establish the consistency of June and December temperatures with the rest of the year.The second query creates a scatter plot to illustrate the consistency of the results.
+
+![](year_round_results.png)
